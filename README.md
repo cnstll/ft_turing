@@ -24,7 +24,7 @@ to name a few
   - **action**: Movement of the head for this transition, either LEFT, or RIGHT.
 
 ## References
-- [On Turing Machine - Stanford](https://www.liafa.jussieu.fr/~carton/Enseignement/Complexite/MasterInfo/Cours/turing.html)
+- [On Turing Machine - Stanford](https://plato.stanford.edu/entries/turing-machine/)
 - [Description fo turing machine](https://www.liafa.jussieu.fr/~carton/Enseignement/Complexite/MasterInfo/Cours/turing.html)
 
 ## Tools and libraries
